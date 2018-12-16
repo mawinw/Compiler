@@ -1,1 +1,1 @@
-# Compiler
+﻿run file โดย python แก้ input file name ใน code แล้วรันได้ input file name.bcode 
